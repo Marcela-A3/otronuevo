@@ -20,4 +20,4 @@
 
 /* ***************************  Main Block  *************************** */
 
-display "hola mundo dos".
+display "hola mundo dos    ".
