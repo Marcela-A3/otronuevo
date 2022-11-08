@@ -21,4 +21,5 @@
 /* ***************************  Main Block  *************************** */
 
 display "hola mundo dos dos dos dos tres tres cuatro cincoooo ".
-display "hola de nuevo mundo"
+display "hola de nuevo mundo".
+display "otra prueba".
