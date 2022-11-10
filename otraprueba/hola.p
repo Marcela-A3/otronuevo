@@ -22,5 +22,3 @@
 
 DISPLAY "hola mundo ".
 DISPLAY "hola de nuevo mundo".
-DISPLAY "otra prueba".
-DISPLAY "algo nuevo".
