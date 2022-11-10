@@ -22,3 +22,4 @@
 
 DISPLAY "hola mundo ".
 DISPLAY "hola de nuevo mundo".
+display "fin".
